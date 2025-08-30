@@ -1,0 +1,721 @@
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+The system cannot find the path specified.
+'C:/Users/JURG' is not recognized as an internal or external command,
+operable program or batch file.
+'C:/Users/JURG' is not recognized as an internal or external command,
+operable program or batch file.
+'C:/Users/JURG' is not recognized as an internal or external command,
+operable program or batch file.
+
+'C:/Users/JURG' is not recognized as an internal or external command,
+operable program or batch file.
+
+Uploaded File Path: "C:\xampp\tmp\phpAE2A.tmp"
+Script Path: "C:/xampp/htdocs/thesis-system/implementation_algo/algo.py"
+
+Command Output: 'C:/Users/JURG' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 32, in <module>
+    df.dropna(subset=["CAUSE", "SEVERITY", "BARANGAY", "TIME", "AGE", "GENDER", "VEHICLE_TYPE"], inplace=True)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 6670, in dropna
+    raise KeyError(np.array(subset)[check].tolist())
+KeyError: ['CAUSE', 'SEVERITY', 'TIME', 'AGE', 'GENDER', 'VEHICLE_TYPE']
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 32, in <module>
+    df.dropna(subset=["CAUSE", "SEVERITY", "BARANGAY", "TIME", "AGE", "GENDER", "VEHICLE_TYPE"], inplace=True)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 6670, in dropna
+    raise KeyError(np.array(subset)[check].tolist())
+KeyError: ['CAUSE', 'SEVERITY', 'TIME', 'AGE', 'GENDER', 'VEHICLE_TYPE']
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Columns found in the file: ['BLOTTER NUMBER', 'PRO', 'PPO', 'STATION', 'BARANGAY', 'STREET', 'DATE REPORTED', 'TIME REPORTED', 'DATE COMMITTED', 'TIME COMMITTED', 'INCIDENT TYPE', 'STAGES OF FELONY', 'OFFENSE', 'OFFENSE CATEGORY', 'CRIME CATEGORY', 'MRS', 'PRIVATE/PUBLIC', 'VICTIMS Name', 'VICTIMS Status', 'VICTIMS Age', 'VICTIMS Gender', 'VICTIMS Occupation', 'VICTIM IS EGO', 'VICTIMS Nationality', 'SUSPECTS Name', 'SUSPECTS Status', 'SUSPECTS Age', 'SUSPECTS Gender', 'SUSPECTS Occupation', 'SUSPECT IS EGO', 'SUSPECTS Nationality', 'SUSPECTS Education', 'SUSPECTS Drug Used', 'SUSPECTS Alcohol Used', 'SUSPECTS Group Affiliation', 'SUSPECTS Relation to Victim', 'SUSPECTS Motive', 'Weapons Used', 'Vehicle Used', 'Firearms Used', 'NARRATIVE', 'Column2', 'CASE STATUS', 'CASE PROGRESS', 'LATITUDE', 'LONGITUDE', 'VICTIMS COUNT', 'SUSPECTS COUNT', 'DATE ENCODED2']
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Columns found in the file: ['BLOTTER NUMBER', 'PRO', 'PPO', 'STATION', 'BARANGAY', 'STREET', 'DATE REPORTED', 'TIME REPORTED', 'DATE COMMITTED', 'TIME COMMITTED', 'INCIDENT TYPE', 'STAGES OF FELONY', 'OFFENSE', 'OFFENSE CATEGORY', 'CRIME CATEGORY', 'MRS', 'PRIVATE/PUBLIC', 'VICTIMS Name', 'VICTIMS Status', 'VICTIMS Age', 'VICTIMS Gender', 'VICTIMS Occupation', 'VICTIM IS EGO', 'VICTIMS Nationality', 'SUSPECTS Name', 'SUSPECTS Status', 'SUSPECTS Age', 'SUSPECTS Gender', 'SUSPECTS Occupation', 'SUSPECT IS EGO', 'SUSPECTS Nationality', 'SUSPECTS Education', 'SUSPECTS Drug Used', 'SUSPECTS Alcohol Used', 'SUSPECTS Group Affiliation', 'SUSPECTS Relation to Victim', 'SUSPECTS Motive', 'Weapons Used', 'Vehicle Used', 'Firearms Used', 'NARRATIVE', 'Column2', 'CASE STATUS', 'CASE PROGRESS', 'LATITUDE', 'LONGITUDE', 'VICTIMS COUNT', 'SUSPECTS COUNT', 'DATE ENCODED2']
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Columns found in the file: ['BLOTTER NUMBER', 'PRO', 'PPO', 'STATION', 'BARANGAY', 'STREET', 'DATE REPORTED', 'TIME REPORTED', 'DATE COMMITTED', 'TIME COMMITTED', 'INCIDENT TYPE', 'STAGES OF FELONY', 'OFFENSE', 'OFFENSE CATEGORY', 'CRIME CATEGORY', 'MRS', 'PRIVATE/PUBLIC', 'VICTIMS Name', 'VICTIMS Status', 'VICTIMS Age', 'VICTIMS Gender', 'VICTIMS Occupation', 'VICTIM IS EGO', 'VICTIMS Nationality', 'SUSPECTS Name', 'SUSPECTS Status', 'SUSPECTS Age', 'SUSPECTS Gender', 'SUSPECTS Occupation', 'SUSPECT IS EGO', 'SUSPECTS Nationality', 'SUSPECTS Education', 'SUSPECTS Drug Used', 'SUSPECTS Alcohol Used', 'SUSPECTS Group Affiliation', 'SUSPECTS Relation to Victim', 'SUSPECTS Motive', 'Weapons Used', 'Vehicle Used', 'Firearms Used', 'NARRATIVE', 'Column2', 'CASE STATUS', 'CASE PROGRESS', 'LATITUDE', 'LONGITUDE', 'VICTIMS COUNT', 'SUSPECTS COUNT', 'DATE ENCODED2']
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Columns found in the file: ['BLOTTER NUMBER', 'PRO', 'PPO', 'STATION', 'BARANGAY', 'STREET', 'DATE REPORTED', 'TIME REPORTED', 'DATE COMMITTED', 'TIME COMMITTED', 'INCIDENT TYPE', 'STAGES OF FELONY', 'OFFENSE', 'OFFENSE CATEGORY', 'CRIME CATEGORY', 'MRS', 'PRIVATE/PUBLIC', 'VICTIMS Name', 'VICTIMS Status', 'VICTIMS Age', 'VICTIMS Gender', 'VICTIMS Occupation', 'VICTIM IS EGO', 'VICTIMS Nationality', 'SUSPECTS Name', 'SUSPECTS Status', 'SUSPECTS Age', 'SUSPECTS Gender', 'SUSPECTS Occupation', 'SUSPECT IS EGO', 'SUSPECTS Nationality', 'SUSPECTS Education', 'SUSPECTS Drug Used', 'SUSPECTS Alcohol Used', 'SUSPECTS Group Affiliation', 'SUSPECTS Relation to Victim', 'SUSPECTS Motive', 'Weapons Used', 'Vehicle Used', 'Firearms Used', 'NARRATIVE', 'Column2', 'CASE STATUS', 'CASE PROGRESS', 'LATITUDE', 'LONGITUDE', 'VICTIMS COUNT', 'SUSPECTS COUNT', 'DATE ENCODED2']
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 87, in <module>
+    nb_model.fit(X_train, y_train_bayes)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\naive_bayes.py", line 267, in fit
+    return self._partial_fit(
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\naive_bayes.py", line 428, in _partial_fit
+    X, y = self._validate_data(X, y, reset=first_call)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\base.py", line 584, in _validate_data
+    X, y = check_X_y(X, y, **check_params)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\validation.py", line 1106, in check_X_y
+    X = check_array(
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\validation.py", line 879, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_array_api.py", line 185, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 2153, in __array__
+    arr = np.asarray(values, dtype=dtype)
+ValueError: could not convert string to float: 'Legal Age'
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:105: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=top10, x="Accident Count", y="BARANGAY", palette="Reds_r")
+Columns found in the file: ['BLOTTER NUMBER', 'PRO', 'PPO', 'STATION', 'BARANGAY', 'STREET', 'DATE REPORTED', 'TIME REPORTED', 'DATE COMMITTED', 'TIME COMMITTED', 'INCIDENT TYPE', 'STAGES OF FELONY', 'OFFENSE', 'OFFENSE CATEGORY', 'CRIME CATEGORY', 'MRS', 'PRIVATE/PUBLIC', 'VICTIMS Name', 'VICTIMS Status', 'VICTIMS Age', 'VICTIMS Gender', 'VICTIMS Occupation', 'VICTIM IS EGO', 'VICTIMS Nationality', 'SUSPECTS Name', 'SUSPECTS Status', 'SUSPECTS Age', 'SUSPECTS Gender', 'SUSPECTS Occupation', 'SUSPECT IS EGO', 'SUSPECTS Nationality', 'SUSPECTS Education', 'SUSPECTS Drug Used', 'SUSPECTS Alcohol Used', 'SUSPECTS Group Affiliation', 'SUSPECTS Relation to Victim', 'SUSPECTS Motive', 'Weapons Used', 'Vehicle Used', 'Firearms Used', 'NARRATIVE', 'Column2', 'CASE STATUS', 'CASE PROGRESS', 'LATITUDE', 'LONGITUDE', 'VICTIMS COUNT', 'SUSPECTS COUNT', 'DATE ENCODED2']
+Report and chart generated successfully. Summary path: C:/xampp/htdocs/thesis-system/reports\report_summary_1745139470.xlsx, Chart path: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745139470.png
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:105: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=top10, x="Accident Count", y="BARANGAY", palette="Reds_r")
+Columns found in the file: ['BLOTTER NUMBER', 'PRO', 'PPO', 'STATION', 'BARANGAY', 'STREET', 'DATE REPORTED', 'TIME REPORTED', 'DATE COMMITTED', 'TIME COMMITTED', 'INCIDENT TYPE', 'STAGES OF FELONY', 'OFFENSE', 'OFFENSE CATEGORY', 'CRIME CATEGORY', 'MRS', 'PRIVATE/PUBLIC', 'VICTIMS Name', 'VICTIMS Status', 'VICTIMS Age', 'VICTIMS Gender', 'VICTIMS Occupation', 'VICTIM IS EGO', 'VICTIMS Nationality', 'SUSPECTS Name', 'SUSPECTS Status', 'SUSPECTS Age', 'SUSPECTS Gender', 'SUSPECTS Occupation', 'SUSPECT IS EGO', 'SUSPECTS Nationality', 'SUSPECTS Education', 'SUSPECTS Drug Used', 'SUSPECTS Alcohol Used', 'SUSPECTS Group Affiliation', 'SUSPECTS Relation to Victim', 'SUSPECTS Motive', 'Weapons Used', 'Vehicle Used', 'Firearms Used', 'NARRATIVE', 'Column2', 'CASE STATUS', 'CASE PROGRESS', 'LATITUDE', 'LONGITUDE', 'VICTIMS COUNT', 'SUSPECTS COUNT', 'DATE ENCODED2']
+Report and chart generated successfully. Summary path: C:/xampp/htdocs/thesis-system/reports\report_summary_1745139697.xlsx, Chart path: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745139697.png
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Error: No valid data remaining after removing rows with missing values.
+Error: Missing columns in the file: CAUSE, SEVERITY, TIME, AGE, GENDER, VEHICLE_TYPE
+Report and chart generated successfully. Summary path: C:/xampp/htdocs/thesis-system/reports\report_summary_1745145320.xlsx, Chart path: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745145320.png
+Error: Missing columns in the file: WEATHER, LIGHTING, ROAD_CONDITION, ROAD_TYPE, ROAD_LAYOUT, SPEEDING, INFLUENCE, DISTRACTED, FATIGUE, AGGRESSIVE, VEHICLE_TYPE, VEHICLE_CONDITION, MODEL_YEAR, VEHICLE_LOAD, COLLISION_TYPE, NUM_VEHICLES, SAFETY_EQUIP, IMPACT, DAMAGE_COST, TIME, DAY, DATE, PEAK_HOURS, NUM_INJURED, NUM_KILLED, AGE, GENDER, ROLE, NATIONALITY, INTERSECTION, LANDMARK, ACCIDENT_ZONE_HISTORY
+Error: Missing columns in the file: AGE, GENDER, VEHICLE_TYPE, DATE, INFLUENCE, IMPACT
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:112: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=top_barangays.values, y=top_barangays.index, palette="rocket", ax=ax)
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 146, in <module>
+    print(f"\u2705 Report and charts generated. Summary: {summary_path}")
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+Error: Missing columns in the file: AGE, GENDER, VEHICLE_TYPE, DATE, INFLUENCE, IMPACT
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:107: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.countplot(x="GENDER", data=df, palette="pastel", ax=ax)
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:119: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.countplot(y="VEHICLE_TYPE", data=df, order=df["VEHICLE_TYPE"].value_counts().index, palette="coolwarm", ax=ax)
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:127: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=top_df, x='COUNT', y='BARANGAY', palette="rocket", ax=ax)
+Report and charts generated. Summary: C:/xampp/htdocs/thesis-system/reports\report_summary_1745153631.xlsx
+Victim Gender Distribution: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745153631.png
+Victim Age Distribution: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745153631.png
+Vehicle Used in Accidents: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745153631.png
+Top 10 Accident-Prone Barangays: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745153631.png
+Monthly Accident Trends: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745153631.png
+Geographic Distribution of Accidents: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745153631.png
+Successfully loaded data with 10256 records
+Columns after renaming: BLOTTER NUMBER, PRO, PPO, STATION, BARANGAY, STREET, DATE REPORTED, TIME REPORTED, DATE, TIME COMMITTED, INCIDENT TYPE, STAGES OF FELONY, OFFENSE, OFFENSE CATEGORY, CRIME CATEGORY, MRS, PRIVATE/PUBLIC, VICTIMS Name, VICTIMS Status, AGE, GENDER, VICTIMS Occupation, VICTIM IS EGO, VICTIMS Nationality, SUSPECTS Name, SUSPECTS Status, SUSPECTS Age, SUSPECTS Gender, SUSPECTS Occupation, SUSPECT IS EGO, SUSPECTS Nationality, SUSPECTS Education, SUSPECTS Drug Used, SUSPECTS Alcohol Used, SUSPECTS Group Affiliation, SUSPECTS Relation to Victim, SUSPECTS Motive, Weapons Used, VEHICLE_TYPE, Firearms Used, NARRATIVE, Column2, CASE STATUS, CASE PROGRESS, LATITUDE, LONGITUDE, VICTIMS COUNT, SUSPECTS COUNT, DATE ENCODED2
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745155141.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745155141.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745155141.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745155141.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745155141.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745155141.png
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745155141.xlsx
+
+Report and charts generated successfully!
+Summary report: C:/xampp/htdocs/thesis-system/reports\report_summary_1745155141.xlsx
+Victim Gender Distribution: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745155141.png
+Victim Age Distribution: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745155141.png
+Vehicle Used in Accidents: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745155141.png
+Top 10 Accident-Prone Barangays: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745155141.png
+Monthly Accident Trends: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745155141.png
+Geographic Distribution of Accidents: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745155141.png
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745155637.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745155637.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745155637.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745155637.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745155637.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745155637.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745155637.png
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745155637.xlsx
+Report and charts generated. Summary: C:/xampp/htdocs/thesis-system/reports\report_summary_1745155637.xlsx
+Victim Gender Distribution: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745155637.png
+Victim Age Distribution: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745155637.png
+Vehicle Used in Accidents: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745155637.png
+Top 10 Accident-Prone Barangays: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745155637.png
+Monthly Accident Trends: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745155637.png
+Geographic Distribution of Accidents: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745155637.png
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745160963.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745160963.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745160963.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745160963.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745160963.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745160963.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745160963.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745160963.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745160963.xlsx
+Report and charts generated. Summary: C:/xampp/htdocs/thesis-system/reports\report_summary_1745160963.xlsx
+PDF Report: C:/xampp/htdocs/thesis-system/reports\report_summary_1745160963.pdf
+Victim Gender Distribution: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745160963.png
+Victim Age Distribution: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745160963.png
+Vehicle Used in Accidents: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745160963.png
+Top 10 Accident-Prone Barangays: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745160963.png
+Monthly Accident Trends: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745160963.png
+Geographic Distribution of Accidents: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745160963.png
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745161052.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745161052.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745161052.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745161052.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745161052.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745161052.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745161052.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745161052.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745161052.xlsx
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745161153.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745161153.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745161153.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745161153.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745161153.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745161153.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745161153.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745161153.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745161153.xlsx
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745161333.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745161333.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745161333.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745161333.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745161333.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745161333.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745161333.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745161333.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745161333.xlsx
+Successfully loaded data with 1 records
+Missing essential columns: VICTIMS Age, VICTIMS Gender, Vehicle Used, BARANGAY, DATE COMMITTED, LATITUDE, LONGITUDE
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745195003.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745195003.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745195003.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745195003.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745195003.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745195003.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745195003.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745195003.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745195003.xlsx
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 528, in <module>
+    df["AGE_GROUP"] = pd.cut(df["AGE"], bins=age_bins, labels=age_labels, right=False)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\reshape\tile.py", line 257, in cut
+    fac, bins = _bins_to_cuts(
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\reshape\tile.py", line 452, in _bins_to_cuts
+    ids = bins.searchsorted(x_idx, side=side)
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\base.py", line 1352, in searchsorted
+    return algorithms.searchsorted(
+  File "C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\algorithms.py", line 1329, in searchsorted
+    return arr.searchsorted(value, side=side, sorter=sorter)  # type: ignore[arg-type]
+TypeError: '<' not supported between instances of 'int' and 'str'
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745198807.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745198807.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745198807.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745198807.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745198807.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745198807.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745198807.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745198807.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745198807.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 835, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745198850.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745198850.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745198850.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745198850.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745198850.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745198850.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745198850.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745198850.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745198850.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 835, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745198966.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745198966.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745198966.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745198966.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745198966.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745198966.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745198966.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745198966.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745198966.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 835, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745199150.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745199150.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745199150.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745199150.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745199150.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745199150.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745199150.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745199150.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745199150.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745199323.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745199323.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745199323.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745199323.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745199323.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745199323.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745199323.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745199323.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745199323.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745200225.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745200225.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745200225.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745200225.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745200225.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745200225.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745200225.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745200225.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745200225.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745212653.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745212653.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745212653.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745212653.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745212653.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745212653.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745212653.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745212653.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745212653.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745214024.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745214024.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745214024.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745214024.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745214024.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745214024.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745214024.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745214024.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745214024.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745214775.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745214775.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745214775.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745214775.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745214775.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745214775.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745214775.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745214775.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745214775.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745251312.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745251312.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745251312.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745251312.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745251312.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745251312.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745251312.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745251312.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745251312.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745288298.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745288298.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745288298.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745288298.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745288298.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745288298.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745288298.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745288298.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745288298.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 455, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 271, in <module>
+    arima_prediction_data = [
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 272, in <listcomp>
+    {"month": row["month_str"], "accidents": int(row["arima"]), "predicted": True}
+ValueError: cannot convert float NaN to integer
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745293622.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745293622.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745293622.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745293622.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745293622.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745293622.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\accident_prediction_1745293622.png
+Error creating predictive chart: 'Figure' object has no attribute 'copy'
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745293622.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745293622.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745293622.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 651, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745293699.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745293699.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745293699.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745293699.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745293699.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745293699.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\accident_prediction_1745293699.png
+Error creating predictive chart: 'Figure' object has no attribute 'copy'
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745293699.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745293699.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745293699.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 651, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:309: RuntimeWarning: invalid value encountered in double_scalars
+  linear_yoy_increase_y3 = ((third_year_linear_avg - second_year_linear_avg) / second_year_linear_avg * 100)
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745295056.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745295056.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745295056.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745295056.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745295056.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745295056.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\accident_prediction_1745295056.png
+Error creating predictive chart: 'Figure' object has no attribute 'copy'
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745295056.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745295056.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745295056.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 667, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\Users\JURG CHARLES\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+C:\xampp\htdocs\thesis-system\implementation_algo\algo.py:309: RuntimeWarning: invalid value encountered in double_scalars
+  linear_yoy_increase_y3 = ((third_year_linear_avg - second_year_linear_avg) / second_year_linear_avg * 100)
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745295803.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745295803.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745295803.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745295803.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745295803.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745295803.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\accident_prediction_1745295803.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745295803.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745295803.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745295803.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 691, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Generating SARIMA predictions for 36 months...
+Analyzing time series patterns for optimal SARIMA parameters...
+Determined parameters: (p,d,q)=(1,1,1), (P,D,Q,s)=(1,1,1,12)
+Fitting SARIMA model with parameters: (1, 1, 1) (1, 1, 1, 12)
+SARIMA model successfully fit with AIC: 10.00
+SARIMA predictions generated successfully
+Enhanced Seasonal ARIMA predictions successfully generated
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745298167.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745298167.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745298167.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745298167.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745298167.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745298167.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\seasonal_arima_prediction_1745298167.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745298167.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745298167.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745298167.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 950, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Generating SARIMA predictions for 36 months...
+Analyzing time series patterns for optimal SARIMA parameters...
+Determined parameters: (p,d,q)=(1,1,1), (P,D,Q,s)=(1,1,1,12)
+Fitting SARIMA model with parameters: (1, 1, 1) (1, 1, 1, 12)
+SARIMA model successfully fit with AIC: 10.00
+SARIMA predictions generated successfully
+Enhanced Seasonal ARIMA predictions successfully generated
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745307076.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745307076.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745307076.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745307076.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745307076.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745307076.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\seasonal_arima_prediction_1745307076.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745307076.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745307076.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745307076.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 950, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Generating SARIMA predictions for 36 months...
+Analyzing time series patterns for optimal SARIMA parameters...
+Determined parameters: (p,d,q)=(1,1,1), (P,D,Q,s)=(1,1,1,12)
+Fitting SARIMA model with parameters: (1, 1, 1) (1, 1, 1, 12)
+SARIMA model successfully fit with AIC: 10.00
+SARIMA predictions generated successfully
+Enhanced Seasonal ARIMA predictions successfully generated
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745322801.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745322801.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745322801.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745322801.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745322801.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745322801.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\seasonal_arima_prediction_1745322801.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745322801.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745322801.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745322801.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 950, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Generating SARIMA predictions for 36 months...
+Analyzing time series patterns for optimal SARIMA parameters...
+Determined parameters: (p,d,q)=(1,1,1), (P,D,Q,s)=(1,1,1,12)
+Fitting SARIMA model with parameters: (1, 1, 1) (1, 1, 1, 12)
+SARIMA model successfully fit with AIC: 10.00
+SARIMA predictions generated successfully
+Enhanced Seasonal ARIMA predictions successfully generated
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745455915.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745455915.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745455915.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745455915.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745455915.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745455915.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\seasonal_arima_prediction_1745455915.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745455915.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745455915.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745455915.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 950, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str
+Successfully loaded data with 10256 records
+Dropped 1533 rows with missing essential values
+Warning: 6 rows have invalid AGE values that will be dropped
+INFLUENCE column present: False
+IMPACT column present: False
+Warning: 8 rows have invalid dates that will be dropped
+Generating SARIMA predictions for 36 months...
+Analyzing time series patterns for optimal SARIMA parameters...
+Determined parameters: (p,d,q)=(1,1,1), (P,D,Q,s)=(1,1,1,12)
+Fitting SARIMA model with parameters: (1, 1, 1) (1, 1, 1, 12)
+SARIMA model successfully fit with AIC: 10.00
+SARIMA predictions generated successfully
+Enhanced Seasonal ARIMA predictions successfully generated
+Chart saved: C:/xampp/htdocs/thesis-system/reports\gender_distribution_1745456365.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\age_distribution_1745456365.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\vehicle_used_1745456365.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\top_barangays_1745456365.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\monthly_trends_1745456365.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\geo_distribution_1745456365.png
+Chart saved: C:/xampp/htdocs/thesis-system/reports\seasonal_arima_prediction_1745456365.png
+Combined chart saved: C:/xampp/htdocs/thesis-system/reports\accident_chart_1745456365.png
+PDF report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745456365.pdf
+Summary report saved: C:/xampp/htdocs/thesis-system/reports\report_summary_1745456365.xlsx
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\thesis-system\implementation_algo\algo.py", line 950, in <module>
+    html_dashboard = """
+TypeError: can only concatenate str (not "numpy.int64") to str

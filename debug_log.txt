@@ -1,0 +1,55 @@
+[2025-04-24 03:15:28] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:15:37] Form submitted with file: TRAFFIC-ACCIDENTS-CARAGA-January-1-2019-August-7-2023 - Copy.xlsx
+[2025-04-24 03:15:37] Processing timestamp: 1745457337
+[2025-04-24 03:15:37] Moved uploaded file to: temp_uploads/upload_1745457337.xlsx
+[2025-04-24 03:15:37] Showing loading page
+[2025-04-24 03:15:43] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:15:46] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:15:50] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:15:53] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:15:56] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:15:59] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:01] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:04] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:07] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:10] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:13] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:17] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:19] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:22] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:25] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:29] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:31] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:34] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:38] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:41] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:43] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:47] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:50] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:53] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:55] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:16:58] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:01] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:05] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:07] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:11] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:14] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:17] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:19] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:23] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:25] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:28] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:31] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:35] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:38] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:40] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:44] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:47] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:50] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:53] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:55] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:17:58] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:18:01] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:18:45] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:19:45] Status check: Report exists: No, PDF exists: No, Chart exists: No
+[2025-04-24 03:20:45] Status check: Report exists: No, PDF exists: No, Chart exists: No
